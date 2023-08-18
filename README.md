@@ -1,2 +1,2 @@
-# ADE-Olympicsproj
+# ADE-Olympicsproject
 Olympics Azure Data Engineering Project
