@@ -1,0 +1,9 @@
+{
+	"name": "ade-olympics-project-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4acba6ce-e7c0-4300-a885-f05f0a689190",
+		"tenantId": "a8e4bac2-f112-4577-ae14-184985086a3c"
+	}
+}
