@@ -1,0 +1,22 @@
+{
+	"name": "DS_Athletes",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_HTTP_SOURCE",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": "darshilparmar/tokyo-olympic-azure-data-engineering-project/main/data/Athletes.csv"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
